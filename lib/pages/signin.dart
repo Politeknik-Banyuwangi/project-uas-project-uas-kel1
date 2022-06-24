@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:iconly/iconly.dart';
-import 'package:projectuas/services/api/rest_api_service.dart';
+import 'package:projectuas/services/rest_api_service.dart';
 import 'package:projectuas/themes/theme.dart';
 import 'package:projectuas/widgets/custom_button.dart';
 import 'package:projectuas/widgets/custom_input.dart';
