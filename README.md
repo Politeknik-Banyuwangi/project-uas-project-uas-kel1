@@ -2,10 +2,10 @@
 # Projek Uas Mobile Programming
 
 ## Nama Kelompok 
-- Erick mahardika
-- Al Riza Firdaus
-- Aracely Amanda Gusta
-- Adinda istika maulida
+- Erick mahardika (362055401095)
+- Al Riza Firdaus (362055401117)
+- Aracely Amanda Gusta (362055401092)
+- Adinda istika maulida (362055401116)
 
 ## Api
 
