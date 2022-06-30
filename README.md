@@ -13,3 +13,6 @@
 
 - username : erick
 - password : erick12
+
+## QR CODE
+- https://absen.ngajar.in/showQR.php
